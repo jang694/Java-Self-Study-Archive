@@ -1,6 +1,5 @@
 import java.util.Random;
 import java.util.Scanner;
-import java.util.random.*;
 public class Test {
     
 
@@ -47,4 +46,5 @@ public class Test {
             System.out.print(lotto[i]+" ");
         }
     }
+
 }
