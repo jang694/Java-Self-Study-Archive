@@ -20,7 +20,7 @@ public class Test {
         if(c == 1){
             ++count;//1이 몇개인지 세는 코드
         }
-        System.out.print(c);
+        System.out.print(c);/1011 이면 1101로 출력됨
        }
        System.out.println();
        System.out.println(count+"개");
