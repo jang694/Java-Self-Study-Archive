@@ -2,12 +2,12 @@ import java.util.Scanner;
 
 public class Test {
     public static void main(String[] args) {
-        int myMoney = 0; 
-        int colaPrice = 2000; 
-        int colaStock = 10; 
-        int buyStock = 0; 
-        int totalStock = 0; 
-        int totalPrice = 0; 
+        int myMoney = 0; //소지금
+        int colaPrice = 2000; //콜라 가격
+        int colaStock = 10; //콜라 갯수
+        int buyStock = 0;  //구매 갯수
+        int totalStock = 0;  //구매한 전체 갯수
+        int totalPrice = 0;  //구매한 전체 돈
         
         Scanner sc = new Scanner(System.in);
         
